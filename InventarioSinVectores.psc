@@ -191,7 +191,6 @@ Algoritmo InventarioNoVectoresV1
         FinSegun
 		
     FinMientras
-Escribir "By: Andres Otero"
 FinAlgoritmo
 
 
